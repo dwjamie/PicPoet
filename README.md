@@ -4,11 +4,7 @@
 
 <img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gnom03vektj30sa0ra4ga.jpg" style="zoom:50%" />
 
-![](https://tva1.sinaimg.cn/large/008eGmZEgy1gnom03vektj30sa0ra4ga.jpg){:height="50%" width="50%"}
-
-![](https://tva1.sinaimg.cn/large/008eGmZEgy1gnom05cmjnj30u60qu1kx.jpg){:height="50%" width="50%"}
-
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gnom05cmjnj30u60qu1kx.jpg" style="zoom:20%;" />
+<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gnom05cmjnj30u60qu1kx.jpg" style="zoom:1%;" />
 
 这里文件夹的结构就是运行代码时调用的路径格式了，请按README提示放好数据后即可正常运行代码。
 
