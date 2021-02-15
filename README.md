@@ -2,6 +2,10 @@
 
 深度学习课程大作业，使用Keras实现了一个表现良好的看图作诗模型。模型主要使用了Encoder-Decoder框架，并加入了Attention机制。
 
+<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gnom03vektj30sa0ra4ga.jpg" width = "300" height = "200" align=center />
+
+<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gnom05cmjnj30u60qu1kx.jpg" width = "300" height = "200" align=center />
+
 ![](https://tva1.sinaimg.cn/large/008eGmZEgy1gnom03vektj30sa0ra4ga.jpg)
 
 ![](https://tva1.sinaimg.cn/large/008eGmZEgy1gnom05cmjnj30u60qu1kx.jpg)
