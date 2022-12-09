@@ -1,8 +1,8 @@
 # PicPoet
 
-深度学习课程大作业，使用Keras实现了一个表现良好的看图作诗模型。
+A Chinese poem generator based on pictures using Keras.
 
-效果展示：
+Demo：
 
 <div  align="center">    
   <img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gnom03vektj30sa0ra4ga.jpg" width = "509" height = "491" />
